@@ -11,5 +11,3 @@ I'm a passionate _QA Automation from Madrid, Spain._ Welcome to my GitHub profil
 - **Programming Languages:** Java, Python and something with Swift
 - **Automation Frameworks:** Selenium, Pytest, RobotFramework, Cucumber, XCUITest.
 - **CI/CD Tools:** Jenkins, AzureDevOps, Bitbucket, Postman, Git, Jira, Maven, PyCharm, Intellij IDEA, XCode, Iris CLI.
-
-Thanks for visiting my GitHub profile!
