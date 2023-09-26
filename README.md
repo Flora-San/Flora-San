@@ -1,4 +1,4 @@
-### Hi there, I'm Flora! 👋
+### Hi there, I'm Flora! 🦦
 I'm a passionate _QA Automation from Madrid, Spain._ Welcome to my GitHub profile! Here you'll find a mix of personal projects, contributions to open-source, and more. 
 
 ### About Me
@@ -12,4 +12,4 @@ I'm a passionate _QA Automation from Madrid, Spain._ Welcome to my GitHub profil
 - **Automation Frameworks:** Selenium, Pytest, RobotFramework, Cucumber, XCUITest.
 - **CI/CD Tools:** Jenkins, AzureDevOps, Bitbucket, Postman, Git, Jira, Maven, PyCharm, Intellij IDEA, XCode, Iris CLI.
 
-Thanks for visiting my GitHub profile! 🦦
+Thanks for visiting my GitHub profile!
