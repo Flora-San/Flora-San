@@ -1,4 +1,3 @@
-
 ## Hi there, I'm Flora! 👋
 
 I'm a passionate QA Automation from Madrid, Spain. Welcome to my GitHub profile! Here you'll find a mix of personal projects, contributions to open-source, and more. 
@@ -17,7 +16,6 @@ I'm a passionate QA Automation from Madrid, Spain. Welcome to my GitHub profile!
 - **CI/CD:** Jenkins, AzureDevOps, Bitbucket
 - **Tools:** Postman, Git, Jira, Maven,
     
-
 - 📚 I'm currently reading AUTOMATE THE BORING STUFF WITH PYTHON.
 
 Thanks for visiting my GitHub profile! 😊
