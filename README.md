@@ -1,5 +1,5 @@
 ### Hi there, I'm Flora! 🦦
-I'm a passionate _QA Automation from Madrid, Spain._ Welcome to my GitHub profile! Here you'll find a mix of personal projects, contributions to open-source, and more. 
+I'm a self-taught _QA Automation from Madrid, Spain._ Welcome to my GitHub profile! Here you'll find a mix of personal projects, contributions to open-source, and more. 
 
 ### About Me
 - 🔭 I’m currently working as QA Automation .
