@@ -5,7 +5,7 @@ I'm a self-taught _QA Automation from Madrid, Spain._ Welcome to my GitHub profi
 - 🔭 I’m currently working as QA Automation .
 - 🌱 I’m currently going deeper with Python and things related with Machine Learning.
 - 👯 I’m looking to collaborate on projects that offer me the possibility of growth and learning where I can apply my knowledge..
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florasanchez/) or my [Email](florahsanchez@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/florasanchez/) or my Email florahsanchez@gmail.com.
 
 ### My Skills
 - **Programming Languages:** Java, Python and something with Swift
